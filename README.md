@@ -8,4 +8,4 @@ Image warping is a branch of image processing that deals with the geometric tran
 
 This project develops a method that allows users to define a curve or line in an image and then to create a warp based on how the user chooses to change that curve. This curve is known as a spline and the movements of the pixels along it are used to characterize the warp. Parametric equations are used to define both the initial spline and the user transformed spline. A vector field of the movements of all pixels in the image is created using the known pixel movements and an interpolation function. Finding the interpolation function involves solving the Poisson partial differential equation through the use of numerical methods. Finally, the new process is employed to correct anatomical imperfections in images of classical Renaissance paintings.
 
-See Project Details PDF for further information
+See more project details and results in the 'details' PDF for further information.
